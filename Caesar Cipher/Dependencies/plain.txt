@@ -1,0 +1,10 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	cout << "Do you know what is this?\n";
+	cout << "This is a plain text file." << endl;
+	cout << "This will soon be encrypted!!";
+
+	return 0;
+}
